@@ -162,3 +162,14 @@ Canais que estarão disponíveis:
 O portfólio terá como objetivo apresentar minha trajetória acadêmica e profissional, conhecimentos técnicos e projetos desenvolvidos.
 
 A apresentação deverá conectar minha experiência em processos e operações com minha atuação em Desenvolvimento de Software e Dados, destacando minha capacidade analítica, participação em projetos e construção de soluções para problemas reais.
+
+## Posicionamento profissional
+
+Quero ser apresentado como um profissional de
+tecnologia que conecta Dados e Desenvolvimento
+para resolver problemas.
+
+Meu perfil combina pensamento analítico,
+compreensão de processos, desenvolvimento de
+software e utilização de dados para construir
+soluções fundamentadas.
